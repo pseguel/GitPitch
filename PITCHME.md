@@ -1,6 +1,6 @@
-# Flux 
+# AWS SA Interview 
 
-An application architecture for React
+Paulo Seguel 
 
 ---
 
